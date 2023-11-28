@@ -14,8 +14,10 @@ Follow below steps to run the project
 
 1) git clone https://github.com/codebyrohi/react-admin-app.git
 
-2) cd admin-react-app
+3) cd admin-react-app
 
-3) npm install
+4) checkout to master branch
 
-4) npm start
+5) npm install
+
+5) npm start
