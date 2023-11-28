@@ -12,7 +12,7 @@ Before you begin, ensure you have the following installed:
 
 Follow below steps to run the project
 
-1) git clone https://jagtap-rohini@bitbucket.org/laravel-users/admin-react-app.git
+1) git clone https://github.com/codebyrohi/react-admin-app.git
 
 2) cd admin-react-app
 
